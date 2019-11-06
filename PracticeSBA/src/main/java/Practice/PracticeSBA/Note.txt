@@ -1,0 +1,7 @@
+Note:Before run check these below steps
+
+
+1)place all .java files and .properties files in one package
+2)Import selenium jars,testng jars,apachi poi jars and install Testng plugin
+3)place xml file out side of package
+4)change paths for excel and propertie
